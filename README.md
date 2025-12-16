@@ -1,4 +1,4 @@
-# ResumeGenie 🧞‍♂️
+# CVScrape 📄
 
 > Scrape your LinkedIn profile and generate an ATS-friendly resume powered by AI
 
@@ -23,8 +23,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/daksh-pathak/ResumeGenie.git
-   cd ResumeGenie
+   git clone https://github.com/daksh-pathak/CVScrape.git
+   cd CVScrape
    ```
 
 2. Install dependencies:
@@ -52,7 +52,7 @@ This will save your profile data to `profile_data.json`.
 ## 📁 Project Structure
 
 ```
-ResumeGenie/
+CVScrape/
 ├── main.py              # Main script to fetch LinkedIn data
 ├── profile_data.json    # Output file with scraped profile data
 ├── .env                 # Environment variables (API key)
