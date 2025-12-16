@@ -7,10 +7,10 @@
 
 ## ✨ Features
 
-- ✅ **Get Noticed by Recruiters** - Stand out with a professionally structured resume
-- ✅ **AI-Powered Resume** - Leverage AI to optimize your resume content
-- ✅ **Quick and Easy** - Generate your resume in minutes
-- ✅ **ATS Ready** - Formatted to pass Applicant Tracking Systems
+-  **Get Noticed by Recruiters** - Stand out with a professionally structured resume
+-  **AI-Powered Resume** - Leverage AI to optimize your resume content
+-  **Quick and Easy** - Generate your resume in minutes
+-  **ATS Ready** - Formatted to pass Applicant Tracking Systems
 
 ## 🚀 Getting Started
 
