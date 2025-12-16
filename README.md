@@ -2,9 +2,6 @@
 
 > Scrape your LinkedIn profile and generate an ATS-friendly resume powered by AI
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ## ✨ Features
 
 -  **Get Noticed by Recruiters** - Stand out with a professionally structured resume
